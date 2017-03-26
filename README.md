@@ -3,9 +3,9 @@ The Github repo for issues involving the book "Empirical Software Engineering us
 
 [Blog post](http://shape-of-code.coding-guidelines.com/2012/06/22/background-to-my-book-project-empirical-software-engineering-with-r/) giving some background on the book.
 
-[Plots of the data post](http://www.knosof.co.uk/ESEUR/figures/index.html).
+[Plots of the data page](http://www.knosof.co.uk/ESEUR/figures/index.html).
 
-[Book's webpage post](http://www.knosof.co.uk/ESEUR/index.html).
+[Book's webpage](http://www.knosof.co.uk/ESEUR/index.html).
 
 If you know of any software engineering data that you think should be included, please let me know.
 
