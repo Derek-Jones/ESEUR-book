@@ -1,7 +1,7 @@
 
 The Github repo for issues involving the book "Empirical Software Engineering using R" by Derek M. Jones.
 
-[Blog post](http://shape-of-code.coding-guidelines.com/2012/06/22/background-to-my-book-project-empirical-software-engineering-with-r/) giving some background on the book.
+[Blog post](http://shape-of-code.coding-guidelines.com/2012/06/22/background-to-my-book-project-empirical-software-engineering-with-r/) giving some, slightly out of date, background on the book.
 
 [Plots of the data page](http://www.knosof.co.uk/ESEUR/figures/index.html).
 
@@ -9,7 +9,9 @@ The Github repo for issues involving the book "Empirical Software Engineering us
 
 If you know of any software engineering data that you think should be included, please let me know.
 
-The current draft (0.7.0) contains the Human cognitive characteristics, Cognitive capitalism and Ecosystems chapters, plus second half of the book covering analysis of software engineering data.  Material on the first half, which discusses what is empirically known about software engineering will be added as each chapter reaches a stable state.
+The current draft (0.8.0) contains the Human cognitive characteristics, Cognitive capitalism and Ecosystems chapters, plus second half of the book covering analysis of software engineering data.  Material on the first half, which discusses what is empirically known about software engineering will be added as each chapter reaches a stable state.
+
+0.8.0  Oct 17 Projects chapter, plus various updates to earlier released material.
 
 0.7.0  Jul 17 Ecosystems chapter, plus various updates to earlier released material.
 
