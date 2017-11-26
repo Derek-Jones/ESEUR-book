@@ -9,7 +9,7 @@ The Github repo for issues involving the book "Empirical Software Engineering us
 
 If you know of any software engineering data that you think should be included, please let me know.
 
-The current draft (0.8.0) contains the Human cognitive characteristics, Cognitive capitalism and Ecosystems chapters, plus second half of the book covering analysis of software engineering data.  Material on the first half, which discusses what is empirically known about software engineering will be added as each chapter reaches a stable state.
+The current draft (0.8.1) contains the Human cognitive characteristics, Cognitive capitalism and Ecosystems chapters, plus second half of the book covering analysis of software engineering data.  Material on the first half, which discusses what is empirically known about software engineering will be added as each chapter reaches a stable state.
 
 0.8.1  Nov 26 Tweaks, plus updates using newly arrived data
 
