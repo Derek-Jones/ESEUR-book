@@ -11,7 +11,9 @@ If you know of any software engineering data that you think should be included, 
 
 The current draft (0.8.1) contains the Human cognitive characteristics, Cognitive capitalism and Ecosystems chapters, plus second half of the book covering analysis of software engineering data.  Material on the first half, which discusses what is empirically known about software engineering will be added as each chapter reaches a stable state.
 
-0.8.1  Nov 26 Tweaks, plus updates using newly arrived data
+0.9.0  Apr 18 Reliability chapter, plus various updates to earlier released material.
+
+0.8.1  Nov 17 Tweaks, plus updates using newly arrived data
 
 0.8.0  Oct 17 Projects chapter, plus various updates to earlier released material.
 
