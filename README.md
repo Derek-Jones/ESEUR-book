@@ -14,7 +14,7 @@ The software engineering material in the first half is still being refined for b
 
 0.16.2 Apr 20 Beta release of second half, the "data analysis" chapters, plus more data
 
-0.16.0 Dec 19 Reworked source code chapter, and updated some chapters, plus more data
+0.16.0 Feb 20 Reworked source code chapter, and updated some chapters, plus more data
 
 0.15.0 Dec 19 Reworked reliability chapter, and updated earlier chapters
 
