@@ -12,6 +12,8 @@ If you know of any software engineering data that you think should be included, 
 
 The software engineering material in the first half is still being refined for beta release.
 
+0.16.3 May 20 Updated/polished/corrected software engineering chapters, plus more data
+
 0.16.2 Apr 20 Beta release of second half, the "data analysis" chapters, plus more data
 
 0.16.0 Feb 20 Reworked source code chapter, and updated some chapters, plus more data
