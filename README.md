@@ -12,6 +12,8 @@ If you know of any software engineering data that you think should be included, 
 
 The software engineering material in the first half is still being refined for beta release.
 
+Beta 2 Oct 20 More polishing and correcting, plus more data
+
 Beta 1 Jun 20 polished/corrected software engineering chapters, plus more data
 
 0.16.3 May 20 Updated/polished/corrected software engineering chapters, plus more data
