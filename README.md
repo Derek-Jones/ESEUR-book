@@ -10,7 +10,7 @@ The Github repo for issues involving the book "Evidence-based Software Engineeri
 If you know of any software engineering data that you think should be included, please let me know.
 
 
-The software engineering material in the first half is still being refined for beta release.
+1.0  1 Nov 20 Version 1.0 release
 
 Beta 2 Oct 20 More polishing and correcting, plus more data
 
