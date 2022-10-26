@@ -1,14 +1,15 @@
 
 The Github repo for issues involving the book "Evidence-based Software Engineering: based on the publicly available data" by Derek M. Jones.
 
-[Blog post](http://shape-of-code.coding-guidelines.com/2012/06/22/background-to-my-book-project-empirical-software-engineering-with-r/) giving some, slightly out of date, background on the book.
+[Book's discussion page](https://github.com/Derek-Jones/ESEUR-book/discussions).
 
-[Plots of the data page](http://www.knosof.co.uk/ESEUR/figures/index.html).
+If you know of any software engineering data that you think should be have been included, please let me know.
 
 [Book's webpage](http://www.knosof.co.uk/ESEUR/index.html).
 
-If you know of any software engineering data that you think should be included, please let me know.
+[Plots of the data](http://www.knosof.co.uk/ESEUR/figures/index.html).
 
+[Blog post](http://shape-of-code.coding-guidelines.com/2012/06/22/background-to-my-book-project-empirical-software-engineering-with-r/) giving some, slightly out of date, background on the book.
 
 1.0  1 Nov 20 Version 1.0 release
 
