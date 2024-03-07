@@ -7,6 +7,10 @@ If you know of any software engineering data that you think should be have been 
 
 [Book's webpage](http://www.knosof.co.uk/ESEUR/index.html).
 
+[2023 data discovered since book published](https://shape-of-code.com/2023/11/05/evidence-based-software-engineering-book-the-last-year/)
+
+[2022 data discovered since book published](https://shape-of-code.com/2022/11/06/evidence-based-software-engineering-book-two-years-later/)
+
 [Plots of the data](http://www.knosof.co.uk/ESEUR/figures/index.html).
 
 [Blog post](http://shape-of-code.coding-guidelines.com/2012/06/22/background-to-my-book-project-empirical-software-engineering-with-r/) giving some, slightly out of date, background on the book.
