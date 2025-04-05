@@ -3,9 +3,13 @@ The Github repo for issues involving the book "Evidence-based Software Engineeri
 
 [Book's discussion page](https://github.com/Derek-Jones/ESEUR-book/discussions).
 
-If you know of any software engineering data that you think should be have been included, please let me know.
-
 [Book's webpage](http://www.knosof.co.uk/ESEUR/index.html).
+
+[Discord channel](https://discord.gg/gsb9KgCBps).
+
+If you know of any software engineering data that you think should be included, please let me know.
+
+[2024 data discovered since book published](https://shape-of-code.com/2024/12/29/my-2024-in-software-engineering/)
 
 [2023 data discovered since book published](https://shape-of-code.com/2023/11/05/evidence-based-software-engineering-book-the-last-year/)
 
