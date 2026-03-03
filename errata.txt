@@ -49,6 +49,12 @@ to
 "The log-odds of the proportion estimated,"
 
 
+4.1: Page 91, 3 Mar 26 DJ
+
+Add to caption of Figure 4.2:
+"Blue circles are MacIntosh systems."
+
+
 4.3.2: page 103, 10 Jan 21 DJ
 
 Replaced:
