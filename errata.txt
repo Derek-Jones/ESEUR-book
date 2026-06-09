@@ -39,6 +39,19 @@ Changed:
 to
 'customer'
 
+2.5: page 38  9 Jun 26 DJ
+
+Changed:
+'The lines are the fitted models books ≈ 27months^0.48, and books ≈ −0.6months + 40 sqrt(months)'
+to
+'The lines are the fitted models books ≈ 0.19years^2.1, and books ≈ -15.6months + 0.53 years^2'
+
+2.5: page 39  9 Jun 26 DJ
+
+Changed:
+'Elapsed months'
+to
+'Elapsed years'
 
 2.7.3: page 51, ?? DJ
 
